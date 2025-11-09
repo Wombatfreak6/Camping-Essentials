@@ -23,3 +23,5 @@ Camping Essentials Guide is a simple and responsive web page that highlights imp
 - `style.css` – custom styling file  
 - `README.md` – project documentation
 
+
+Website --> http://127.0.0.1:5500/main.html
